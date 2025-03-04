@@ -27,5 +27,3 @@ const twoSum = (nums, target) => {
     map.set(nums[i], i);
   }
 };
-
-console.log(twoSum(nums, target));
